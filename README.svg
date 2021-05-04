@@ -32,7 +32,7 @@
 			}
 
 			a.apple-developer {
-				background-image: url(images/apple-developer-brandmark.svg);
+				background-image: url(https://developer.apple.com/assets/elements/icons/brandmark/apple-developer-brandmark.svg);
 				background-size: auto 14pt;
 				width: 68pt;
 				height: 14pt;
@@ -40,7 +40,7 @@
 			}
 
 			a.swift {
-				background-image: url(images/icon-swift-dark.svg);
+				background-image: url(https://developer.apple.com/develop/images/icon-swift-dark.svg);
 				background-size: 18pt 22pt;
 				width: 18pt;
 				height: 22pt;
@@ -50,7 +50,7 @@
 			}
 
 			a.xcode {
-				background-image: url(images/icon-xcode-dark.svg);
+				background-image: url(https://developer.apple.com/develop/images/icon-xcode-dark.svg);
 				background-size: 18pt 22pt;
 				width: 18pt;
 				height: 22pt;
@@ -63,6 +63,10 @@
 				I am a software engineer, these days primarily an <a href="https://developer.apple.com" target="_new" class="icon apple-developer"> Developer</a>
 				developing software in <a href="https://github.com/apple/swift" target="_new" class="icon swift">Swift</a>
 				using <a href="https://developer.apple.com/xcode/" target="_new" class="icon xcode">Xcode</a>.
+
+				<img src="https://developer.apple.com/assets/elements/icons/brandmark/apple-developer-brandmark.svg"/>
+				<img src="https://developer.apple.com/develop/images/icon-swift-dark.svg"/>
+				<img src="https://developer.apple.com/develop/images/icon-xcode-dark.svg"/>
 			</div>
 		</div>
 	</foreignObject>
