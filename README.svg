@@ -1,0 +1,69 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+			@media (prefers-color-scheme: light) {
+				body {
+					background-color: white;
+					color: black;
+				}
+			}
+
+			@media (prefers-color-scheme: dark) {
+				body {
+					background-color: black;
+					color: white;
+				}
+			}
+
+			.container {
+				font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+				font-size: 12pt;
+				margin: 0;
+				width: 100%;
+				height: 400px;
+			}
+
+			a.icon {
+				display: inline-block;
+				text-indent: -9999px;
+				background-repeat: no-repeat;
+				position: relative;
+			}
+
+			a.apple-developer {
+				background-image: url(https://developer.apple.com/assets/elements/icons/brandmark/apple-developer-brandmark.svg);
+				background-size: auto 14pt;
+				width: 68pt;
+				height: 14pt;
+				filter: invert(46%) sepia(54%) saturate(2849%) hue-rotate(315deg) brightness(104%) contrast(97%);
+			}
+
+			a.swift {
+				background-image: url(https://developer.apple.com/develop/images/icon-swift-dark.svg);
+				background-size: 18pt 22pt;
+				width: 18pt;
+				height: 22pt;
+				top: -9px;
+				margin-top: 3px;
+				filter: invert(50%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+			}
+
+			a.xcode {
+				background-image: url(https://developer.apple.com/develop/images/icon-xcode-dark.svg);
+				background-size: 18pt 22pt;
+				width: 18pt;
+				height: 22pt;
+				top: -9px;
+				margin-top: 3px;
+				filter: invert(55%) sepia(83%) saturate(290%) hue-rotate(168deg) brightness(96%) contrast(100%);
+			}
+			</style>
+			<div class="container">
+				I am a software engineer, these days primarily an <a href="https://developer.apple.com" target="_new" class="icon apple-developer"> Developer</a>
+				developing software in <a href="https://github.com/apple/swift" target="_new" class="icon swift">Swift</a>
+				using <a href="https://developer.apple.com/xcode/" target="_new" class="icon xcode">Xcode</a>.
+			</div>
+		</div>
+	</foreignObject>
+</svg>
