@@ -32,7 +32,7 @@
 			}
 
 			a.apple-developer {
-				background-image: url(https://developer.apple.com/assets/elements/icons/brandmark/apple-developer-brandmark.svg);
+				background-image: url(images/apple-developer-brandmark.svg);
 				background-size: auto 14pt;
 				width: 68pt;
 				height: 14pt;
@@ -40,7 +40,7 @@
 			}
 
 			a.swift {
-				background-image: url(https://developer.apple.com/develop/images/icon-swift-dark.svg);
+				background-image: url(images/icon-swift-dark.svg);
 				background-size: 18pt 22pt;
 				width: 18pt;
 				height: 22pt;
@@ -50,7 +50,7 @@
 			}
 
 			a.xcode {
-				background-image: url(https://developer.apple.com/develop/images/icon-xcode-dark.svg);
+				background-image: url(images/icon-xcode-dark.svg);
 				background-size: 18pt 22pt;
 				width: 18pt;
 				height: 22pt;
