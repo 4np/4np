@@ -16,6 +16,16 @@ I am a software engineer, these days primarily an <a href="https://developer.app
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1329](https://github.com/meshcore-dev/MeshCore/issues/1329#issuecomment-3720088148) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+2. 🗣 Commented on [#1238](https://github.com/meshcore-dev/MeshCore/pull/1238#issuecomment-3717685359) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+3. 🗣 Commented on [#1238](https://github.com/meshcore-dev/MeshCore/pull/1238#issuecomment-3715585518) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+4. 🗣 Commented on [#1238](https://github.com/meshcore-dev/MeshCore/pull/1238#issuecomment-3713585354) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+5. 🗣 Commented on [#1238](https://github.com/meshcore-dev/MeshCore/pull/1238#issuecomment-3709156969) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+6. 🗣 Commented on [#1238](https://github.com/meshcore-dev/MeshCore/pull/1238#issuecomment-3708318364) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+7. 🗣 Commented on [#1290](https://github.com/meshcore-dev/MeshCore/issues/1290#issuecomment-3707428819) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+8. 🗣 Commented on [#1238](https://github.com/meshcore-dev/MeshCore/pull/1238#issuecomment-3701996947) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+9. 🗣 Commented on [#1238](https://github.com/meshcore-dev/MeshCore/pull/1238#issuecomment-3701876813) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+10. 🗣 Commented on [#1242](https://github.com/meshcore-dev/MeshCore/pull/1242#issuecomment-3698904067) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
 <!--END_SECTION:activity-->
 
 ---
