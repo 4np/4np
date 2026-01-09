@@ -17,10 +17,3 @@ I am a software engineer, these days primarily an <a href="https://developer.app
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-<picture>
-  <source height=75 align="center" media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=apple,swift,rust,regex,git,github,githubactions,jenkins,firebase,html,js,vscode,idea,figma,bash,docker,arduino,linux,ubuntu,nginx,mysql,postgres,sqlite&perline=23">
-  <img height=75 align="center" src="https://skillicons.dev/icons?i=apple,swift,rust,regex,git,github,githubactions,jenkins,firebase,html,js,vscode,idea,figma,bash,docker,arduino,linux,ubuntu,nginx,mysql,postgres,sqlite&perline=23&theme=light">
-</picture>
