@@ -4,12 +4,30 @@ I am a software engineer, these days primarily an <a href="https://developer.app
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <img width=350 align="center" src="./profile/stats.svg" />
 
 <img width=400 align="center" src="./profile/top-langs.svg" />
 
+<picture>
+  <source
+    width=350
+    align="center"
+    srcset="./profile/stats.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img width=350 align="center" src="./profile/stats.svg" />
+</picture>
+
+<picture>
+  <source
+    width=400
+    align="center"
+    srcset="./profile/top-langs.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img width=400 align="center" src="./profile/top-langs.svg"/>
+</picture>
 
 <!--<picture>
   <source
