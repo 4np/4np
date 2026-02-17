@@ -16,11 +16,11 @@ I am a software engineer, these days primarily an <a href="https://developer.app
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
-2. ❌ Closed PR [#1443](https://github.com/meshcore-dev/MeshCore/pull/1443) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-3. 🗣 Commented on [#1443](https://github.com/meshcore-dev/MeshCore/pull/1443#issuecomment-3852239989) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-4. 🗣 Commented on [#1577](https://github.com/meshcore-dev/MeshCore/issues/1577#issuecomment-3839652021) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-5. 🗣 Commented on [#1353](https://github.com/meshcore-dev/MeshCore/pull/1353#issuecomment-3820882649) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+1. 🔒 Closed issue [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
+2. 🗣 Commented on [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15#issuecomment-3916357430) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
+3. ❗ Opened issue [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
+4. ❌ Closed PR [#1443](https://github.com/meshcore-dev/MeshCore/pull/1443) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+5. 🗣 Commented on [#1443](https://github.com/meshcore-dev/MeshCore/pull/1443#issuecomment-3852239989) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
 <!--END_SECTION:activity-->
 
 ---
