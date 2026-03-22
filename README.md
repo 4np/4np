@@ -16,11 +16,11 @@ I am a software engineer, these days primarily an <a href="https://developer.app
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/pull/21) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
-2. 🗣 Commented on [#21](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/pull/21#issuecomment-4106425236) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
-3. 💪 Opened PR [#22](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/pull/22) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
-4. 💪 Opened PR [#21](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/pull/21) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
-5. 🗣 Commented on [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15#issuecomment-4106278465) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
+1. 🗣 Commented on [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15#issuecomment-4106516637) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
+2. 🔒 Closed issue [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
+3. ❌ Closed PR [#21](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/pull/21) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
+4. 🗣 Commented on [#21](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/pull/21#issuecomment-4106425236) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
+5. 💪 Opened PR [#22](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/pull/22) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
 <!--END_SECTION:activity-->
 
 ---
