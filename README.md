@@ -16,11 +16,11 @@ I am a software engineer, these days primarily an <a href="https://developer.app
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2226](https://github.com/meshcore-dev/MeshCore/issues/2226#issuecomment-4180743361) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-2. ❗ Opened issue [#2144](https://github.com/meshcore-dev/MeshCore/issues/2144) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-3. 🗣 Commented on [#2132](https://github.com/meshcore-dev/MeshCore/issues/2132#issuecomment-4114278143) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-4. 🗣 Commented on [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15#issuecomment-4106516637) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
-5. 🔒 Closed issue [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
+1. 🗣 Commented on [#2144](https://github.com/meshcore-dev/MeshCore/issues/2144#issuecomment-4188507035) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+2. 🗣 Commented on [#2226](https://github.com/meshcore-dev/MeshCore/issues/2226#issuecomment-4180743361) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+3. ❗ Opened issue [#2144](https://github.com/meshcore-dev/MeshCore/issues/2144) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+4. 🗣 Commented on [#2132](https://github.com/meshcore-dev/MeshCore/issues/2132#issuecomment-4114278143) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+5. 🗣 Commented on [#15](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX/issues/15#issuecomment-4106516637) in [oltaco/Adafruit_nRF52_Bootloader_OTAFIX](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX)
 <!--END_SECTION:activity-->
 
 ---
