@@ -16,10 +16,10 @@ I am a software engineer, these days primarily an <a href="https://developer.app
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1329](https://github.com/meshcore-dev/MeshCore/issues/1329#issuecomment-4335903818) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-2. 🗣 Commented on [#2423](https://github.com/meshcore-dev/MeshCore/pull/2423#issuecomment-4335499619) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-3. 🗣 Commented on [#2301](https://github.com/meshcore-dev/MeshCore/issues/2301#issuecomment-4247213647) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-4. 🗣 Commented on [#4](https://github.com/james-howard/AWDLControl/issues/4#issuecomment-4230949041) in [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl)
+1. 🗣 Commented on [#2301](https://github.com/meshcore-dev/MeshCore/issues/2301#issuecomment-4440501152) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+2. 🗣 Commented on [#1329](https://github.com/meshcore-dev/MeshCore/issues/1329#issuecomment-4335903818) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+3. 🗣 Commented on [#2423](https://github.com/meshcore-dev/MeshCore/pull/2423#issuecomment-4335499619) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+4. 🗣 Commented on [#2301](https://github.com/meshcore-dev/MeshCore/issues/2301#issuecomment-4247213647) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
 5. ❗ Opened issue [#4](https://github.com/james-howard/AWDLControl/issues/4) in [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl)
 <!--END_SECTION:activity-->
 
