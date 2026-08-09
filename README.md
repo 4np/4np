@@ -25,7 +25,7 @@ I am a software engineer, these days primarily an <a href="https://developer.app
 
 ---
 
-[<img style="vertical-align:middle;height:14pt;" alt="Ghostty - a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration" src="https://ghostty.org/_next/static/media/ghostty-wordmark.6a43fa21.svg" />](https://ghostty.org)&nbsp;
+[<img style="vertical-align:middle;height:14pt;" alt="Ghostty - a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration" src="https://ghostty.org/_next/static/media/ghostty-wordmark.815bf882.svg" />](https://ghostty.org)&nbsp;
 [<img style="vertical-align:middle;height:14pt;" alt="Atuin - Magical Shell History" src="https://blog.atuin.sh/content/images/2024/01/Atuin_Logo_01_blue.png" />](https://atuin.sh)&nbsp;
 [<img style="vertical-align:middle;height:14pt;" alt="Starship - A cross-Shell Prompt" src="https://starship.rs/icon.png" />](https://starship.rs)&nbsp;
 [<img style="vertical-align:middle;height:14pt;" alt="Zellij - A terminal workspace manager and multiplexer." src="https://zellij.dev/img/logo.png" />](https://zellij.dev)&nbsp;
