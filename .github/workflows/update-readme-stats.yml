@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&custom_title=GitHub%20Statistics&theme=dracula
@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&custom_title=GitHub%20Statistics&theme=transparent
@@ -34,7 +34,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide=groovy&langs_count=5&card_width=450&theme=dracula
@@ -42,7 +42,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide=groovy&langs_count=5&card_width=450&theme=transparent
