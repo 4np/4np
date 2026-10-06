@@ -1,27 +1,36 @@
-Hi there <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> 
+<div align="center">
+	<img src="assets/header.svg" width="100%" />  
+	<br /><br />
+	<a href="https://www.linkedin.com/in/jeroenwesbeek"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+	<img src="https://komarev.com/ghpvc/?username=4np&style=for-the-badge&color=7aa2f7&label=profile+views&abbreviated=true" alt="Profile views" />
+</div>
 
-I am a software engineer, these days primarily an <a href="https://developer.apple.com" target="_new" style=""><img src="images/apple-developer.svg" alt=" Developer" style="height:12pt"/></a> developing software in <a href="https://github.com/apple/swift" target="_new"><img src="images/icon-swift.svg" alt="Swift" style="height:16pt"/></a> using <a href="https://developer.apple.com/xcode/" target="_new" alt="Xcode"><img src="images/icon-xcode.svg" alt="Xcode" style="height:17pt"/></a>.
+Hi there <img src="https://x.tw93.fun/images/hi.gif" alt="Hi" width="18"/>, I’m Jeroen.
 
-<!-- Stats -->
-<picture>
-  <source width=350 align="center" media="(prefers-color-scheme: dark)" srcset="./images/stats-dark.svg">
-  <img width=350 align="center" src="./images/stats-light.svg">
-</picture>
+I’m a software engineer and technologist with 28+ years of hands-on experience across Apple platforms, backend systems, web, infrastructure and DevOps. These days I work primarily with Swift and Apple’s development ecosystem, with a strong interest in software architecture, developer tooling, reliability and building maintainable systems.
 
-<picture>
-  <source width=400 align="center" media="(prefers-color-scheme: dark)" srcset="./images/top-langs-dark.svg">
-  <img width=400 align="center" src="./images/top-langs-light.svg">
-</picture>
+I enjoy solving problems across technology boundaries and remain very much a hands-on engineer, while also contributing to technical direction, architecture and mentoring. I also work with AI-assisted and agentic development, including modern coding agents and privacy-preserving, on-device machine learning.
 
-### :zap: Recent Activity
+I’m open to new opportunities. The quickest way to reach me is via [LinkedIn](https://www.linkedin.com/in/jeroenwesbeek).
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/AkitaEngineering/Akita-Zmodem-MeshCore/issues/5#issuecomment-4459569233) in [AkitaEngineering/Akita-Zmodem-MeshCore](https://github.com/AkitaEngineering/Akita-Zmodem-MeshCore)
-2. 🗣 Commented on [#2545](https://github.com/meshcore-dev/MeshCore/pull/2545#issuecomment-4459538846) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-3. 🗣 Commented on [#2545](https://github.com/meshcore-dev/MeshCore/pull/2545#issuecomment-4450982647) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-4. 🗣 Commented on [#2301](https://github.com/meshcore-dev/MeshCore/issues/2301#issuecomment-4440501152) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-5. 🗣 Commented on [#1329](https://github.com/meshcore-dev/MeshCore/issues/1329#issuecomment-4335903818) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-<!--END_SECTION:activity-->
+---
+
+<div align="center">
+	<picture>
+	  <source
+	    media="(prefers-color-scheme: dark)"
+	    srcset="https://raw.githubusercontent.com/4np/4np/output/github-contribution-grid-snake-dark.svg"
+	  />
+	  <source
+	    media="(prefers-color-scheme: light)"
+	    srcset="https://raw.githubusercontent.com/4np/4np/output/github-contribution-grid-snake.svg"
+	  />
+	  <img
+	    alt="github contribution grid snake animation"
+	    src="https://raw.githubusercontent.com/4np/4np/output/github-contribution-grid-snake.svg"
+	  />
+	</picture>
+</div>
 
 ---
 
@@ -49,3 +58,7 @@ I am a software engineer, these days primarily an <a href="https://developer.app
 [<img style="vertical-align:middle;height:14pt;" alt="Slack - for slackers" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />](https://slack.com)&nbsp;
 [<img style="vertical-align:middle;height:14pt;" alt="Mattermost - for ex-slackers" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mattermost/mattermost-original.svg" />](https://mattermost.com)&nbsp;
 <!-- [<img style="vertical-align:middle;height:14pt;" alt="" src="" />]()&nbsp; -->
+
+<div align="center">
+	<img src="assets/footer.svg" width="100%" alt="" />
+</div>
